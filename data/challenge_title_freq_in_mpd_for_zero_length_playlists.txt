@@ -1,0 +1,753 @@
+# the title frequencies in the MPD for challenge playlists with zero tracks
+# field #1 - number of times the normalized playlist title appears in the MPD
+# field #2 - the number of times the normalized playlist title appears in the challenge set
+# field #3 - the normalized title
+
+0 1 universal stereo
+1 1 casper
+3 1 all sons & daughters
+3 1 hamilton original broadway cast recording
+3 1 rap hop
+4 1 line
+4 1 ohh
+6 1 elect
+6 1 juliette
+6 1 spoon
+6 1 v a p o r w a v e
+7 1 01 17
+7 1 dio
+7 1 lov
+7 1 tunessss
+7 1 💩💩
+8 1 classic house
+8 1 rock 2 0
+9 1 08
+9 1 koala
+11 1 1960's
+11 1 back to the past
+11 1 banks
+11 1 skateboarding
+12 1 feel the beat
+12 1 💚💚💚
+13 1 castle
+13 1 raindrops
+14 1 almost
+14 1 happy daze
+14 1 hotline miami
+14 1 korea
+14 1 may '15
+14 1 ss17
+14 1 wanted
+14 1 zoom
+15 1 all in
+15 1 favesss
+15 1 kh
+15 1 lord
+15 1 the story
+15 1 too cool for school
+16 1 hoops
+16 1 hop hip
+16 1 jasper
+16 1 so high
+16 1 😋😋
+16 1 🚗🚗
+17 1 acustic
+17 1 express yourself
+17 1 february 16
+17 1 partybus
+17 1 sirens
+17 1 space jam
+18 1 bacon
+18 1 boii
+18 1 je t'aime
+18 1 rap 2016
+19 1 mixtape 3
+19 1 random faves
+19 1 u know
+20 1 body party
+20 1 kickin' it
+20 1 may playlist
+20 1 sexy playlist
+20 1 summer in the city
+20 1 vbs
+20 1 wubz
+21 1 alison
+21 1 ar
+21 1 casa
+21 1 my vibes
+21 1 ovoxo
+21 1 piano covers
+21 1 pool time
+22 1 candlelight
+22 1 emo songs
+22 1 pc
+22 1 sick jams
+22 1 van
+23 1 11 16
+23 1 before
+23 1 march 15
+23 1 mothers day
+23 1 sj
+24 1 gotg
+24 1 kg
+24 1 the worst
+25 1 2018
+25 1 90s nostalgia
+25 1 boat tunes
+25 1 feminism
+25 1 for ashley
+25 1 glitter
+25 1 lo mejor
+25 1 now or never
+25 1 slow stuff
+25 1 vibess
+25 1 young and beautiful
+26 1 head bangers
+26 1 punky
+26 1 studious
+26 1 yoga 5
+26 1 👌🏼👌🏼
+27 1 for jess
+27 1 for megan
+27 1 germany
+27 1 happy christmas
+27 1 inside out
+27 1 late summer
+27 1 myself
+27 1 prog
+27 1 winter break
+28 1 7 11
+28 1 ariel
+28 1 sleeps
+28 1 ❤️❤️❤️❤️❤️
+28 2 may flowers
+29 1 basics
+29 1 better together
+29 1 drowning
+29 1 edm chill
+29 1 gentle
+29 1 nwa
+29 1 people
+29 1 workout 💪🏼
+30 1 carpool karaoke
+30 1 content
+30 1 cry baby
+30 1 madi
+30 1 september '16
+30 1 wait
+30 1 workin out
+31 1 stay woke
+31 1 transitions
+31 1 travel tunes
+32 1 folkish
+32 1 narco corridos
+32 1 shine
+33 1 dig it
+33 1 drinking music
+33 1 favorite worship
+33 1 good ole days
+33 1 liam
+33 1 splash
+34 1 arizona
+34 1 gr8
+34 1 kaylee
+34 1 march 16
+34 1 ☕️
+35 1 bid day
+35 1 dog days
+35 1 sexy music
+36 1 2000s rock
+36 1 city
+36 1 fall 2012
+36 1 folk yeah
+36 1 gatsby
+37 1 concentrate
+37 1 mellow tunes
+37 1 nut
+37 1 tommy
+38 1 80's baby
+38 1 boner jamz
+38 1 christain
+38 1 contemp
+38 1 fireside
+38 1 frat
+38 1 songs to sing to
+38 1 writing playlist
+39 1 c h r i s t m a s
+39 1 christmas jamz
+39 1 henry
+39 1 tomorrow
+40 1 christian workout
+40 1 packing
+41 1 ho ho ho
+41 1 yoga 3
+41 1 🤘🏼🤘🏼
+42 1 crystal
+42 1 gracie
+42 1 indie jams
+42 1 sleep 2
+43 1 flowers
+43 1 movie
+43 1 pentatonix
+43 1 ☠️
+44 1 adoration
+44 1 syd
+44 2 summer hits
+45 1 anger
+45 1 descendants
+45 1 diamonds
+45 1 killin it
+45 1 my 80's
+45 1 summa 16
+45 1 top country
+46 1 80's playlist
+46 1 good oldies
+46 1 leg day
+46 1 stretching
+47 1 feel good country
+47 1 get low
+47 1 persian
+47 1 •••
+48 1 allie
+48 1 allison
+48 1 bg
+48 1 december 2013
+48 1 emotion
+48 1 hypebeast
+48 1 rob
+49 1 chance the rapper
+49 1 dope music
+49 1 my house
+49 1 race
+49 1 sorry not sorry
+49 1 🔥lit🔥
+49 1 🤙🏻
+50 1 8th grade
+50 1 glory
+50 1 hip to the hop
+50 1 so good
+51 1 1980s
+51 1 imagine
+51 1 strength
+51 1 the grind
+52 1 2009
+52 1 ayo
+52 1 esketit
+52 1 older songs
+52 1 summer lovin'
+53 1 electric love
+53 1 those days
+54 1 gains
+54 1 ncs
+54 1 run mix
+54 1 yasssss
+55 1 jump
+55 1 spanish playlist
+56 1 hype up
+56 1 iv
+57 1 crooners
+57 1 it's a trap
+58 1 a ap
+58 1 jm
+58 1 lista oficial sense8
+58 1 love yourself
+58 1 💕💕
+59 1 la vie en rose
+59 1 wedding dinner music
+59 2 spicy
+60 1 danny
+60 1 neww
+60 1 uplift
+61 1 aug
+61 1 just drive
+61 1 march 17
+61 1 p1
+62 1 current mood
+62 1 hurricane
+62 1 kelsey
+63 1 advent
+63 1 derp
+63 1 greatest hits
+63 1 study vibes
+64 1 bed time
+64 1 old hip hop
+65 1 moms
+65 1 reception music
+65 1 yes please
+66 1 liked
+66 1 maggie
+67 1 cheer up
+67 1 life is good
+67 1 meg
+68 1 butter
+68 1 x-mas
+68 2 car 2
+68 2 pch
+69 1 sp
+70 1 counrty
+70 1 guardians
+71 1 selena gomez
+71 1 warped tour
+72 1 anthony
+72 1 bam
+72 1 natalie
+72 1 spain
+72 1 spring fling
+73 1 legends
+73 1 rocket league
+74 1 april showers
+75 1 ella
+75 1 happy vibes
+75 1 netflix and chill
+76 1 moms playlist
+76 1 morning vibes
+76 1 trip hop
+77 1 here
+77 1 summer 2012
+78 1 general
+78 1 ice
+78 1 iconic
+78 1 spanish mix
+79 1 cookout
+79 1 dance playlist
+79 1 july 2014
+79 1 newish
+79 1 regeton
+79 1 sean
+80 1 alexis
+80 1 island vibes
+80 1 morning playlist
+80 1 skrt skrt
+80 1 💃🏽
+81 1 all day
+81 1 bittersweet
+81 1 this one
+82 1 goodbye
+84 1 mo
+84 1 ☺️
+87 1 formal
+87 1 grl pwr
+87 1 morning mix
+87 1 not country
+87 1 today's hits
+88 1 fall feels
+88 1 junior
+88 1 may 17
+88 1 summer feels
+88 2 erin
+90 1 luke
+91 1 new hip hop
+91 2 ay
+92 1 samples
+93 1 new beginnings
+93 2 wo
+94 1 good vibrations
+94 1 on the go
+95 1 cc
+96 1 anytime
+96 1 summer '14
+97 1 dc
+97 1 punk goes
+98 1 kick back
+98 1 my heart
+98 1 seattle
+98 1 😍😍😍
+100 1 pre-ceremony
+101 1 early 2000s
+101 1 joe
+101 1 your perfect running mix
+102 1 gym music
+104 1 heartbreak
+105 1 closer
+105 1 hell yeah
+105 1 hoco
+105 1 shower tunes
+106 1 new worship
+107 1 mood music
+108 1 alright
+108 1 road trips
+111 1 ed sheeran
+111 1 skrt
+111 1 why not
+112 1 thursday
+114 1 april 2015
+115 1 faded
+115 1 league
+116 1 boating
+116 1 shred
+117 1 partyyy
+118 1 maddie
+119 1 work flow
+120 1 dreams
+120 1 mello
+121 1 country vibes
+121 1 golf
+122 1 chilled
+123 1 c h i l l
+124 1 christmas 2015
+125 1 holidays
+125 1 neo soul
+126 1 spooky
+127 1 awesome songs
+127 1 casual
+127 1 hh
+128 1 spring 2013
+128 1 tropical house
+128 1 weird
+129 1 this
+129 1 werkout
+129 2 party jams
+130 1 twerkout
+131 1 country feels
+131 1 game time
+132 1 stream
+133 1 pump it up
+134 1 family
+134 1 fire🔥
+134 1 warmup
+135 1 september 2015
+135 1 tropical
+136 2 best songs ever
+137 2 top songs
+138 1 beat
+138 1 cool down
+140 1 new workout
+143 1 feel goods
+145 1 best country
+145 1 josh
+147 1 crossfit
+147 1 flight
+147 1 new favs
+148 1 420
+148 1 uplifting
+149 1 rap playlist
+150 1 chill 2
+151 2 molly
+152 1 feb
+152 1 randoms
+153 1 november 2015
+156 1 beachin
+157 1 oh
+157 1 rap music
+159 1 classy
+159 1 oldschool
+160 1 summer jamz
+161 1 em
+161 1 february 2016
+162 1 chill pill
+162 1 christmas jams
+163 1 anna
+163 2 bounce
+164 1 beach music
+165 1 cry
+165 1 vacation
+170 1 run run run
+172 2 christmas🎄
+173 1 adventure
+173 1 running playlist
+173 1 wanderlust
+175 1 lax
+176 1 depressed
+176 1 litty titty
+176 1 rehearsal dinner
+177 1 lowkey
+177 1 riding
+178 1 retro
+179 1 cali
+181 1 old but gold
+184 1 saturday
+186 1 vibey
+188 1 yellow
+190 1 top hits
+192 1 mornings
+194 1 summer songs
+194 1 the jams
+195 1 new years
+201 1 beautiful
+204 1 hannah
+204 1 remixes
+206 1 move
+208 1 bonfire
+208 1 luv
+208 1 winter 2017
+209 1 my list
+210 1 21
+210 2 january 2016
+214 1 the list
+216 1 groovin
+216 1 moana
+218 1 mmm
+222 1 fall 2013
+224 1 beach vibes
+224 2 shower songs
+225 1 new wave
+226 1 april 2016
+228 1 top
+230 1 awesome mix vol 1
+232 1 reggeton
+236 1 fuego
+236 1 work it
+237 1 all time favorites
+239 1 prayer
+241 1 dinner party
+242 1 hipster
+242 1 hood
+243 1 blah
+244 1 epic
+244 1 gangsta
+244 2 august 2016
+245 1 wedding dinner
+251 1 rock n roll
+252 1 party bus
+253 1 feelz
+253 1 road trippin'
+255 1 weekend
+256 1 the feel-good flavors playlist
+264 1 old stuff
+264 1 one
+266 1 mexico
+266 1 simp
+268 1 electronica
+270 1 the goods
+271 2 electric
+272 1 january 2017
+272 1 my high-intensity workout
+274 1 writing
+276 1 idek
+277 1 peace
+278 1 pumped
+279 1 untitled
+283 1 deep
+284 1 alex
+284 1 bruh
+284 1 freestyle
+284 1 new jams
+285 1 right now
+288 1 fiesta
+288 2 america
+289 1 dance music
+289 1 my jam
+289 2 lounge
+290 1 football
+290 1 lit🔥
+296 1 its lit
+302 1 old rock
+304 1 my mix
+311 1 alt rock
+312 1 country favorites
+313 1 breathe
+314 1 warm up
+314 2 chilling
+317 1 memories
+323 1 happiness
+324 1 rage
+326 1 fall 2014
+330 1 dub
+336 1 play it forward
+336 1 workout mix
+337 1 jesus music
+340 1 workout music
+341 1 lift
+342 1 zumba
+344 1 disco
+345 1 motivation
+353 2 aye
+354 1 spring 2015
+358 1 california
+360 1 getting ready
+360 1 wedding reception
+362 1 february
+363 1 2000's
+367 1 partay
+370 1 aux
+373 2 funky
+377 1 good morning
+379 1 basketball
+379 1 yuh
+380 1 rain
+381 1 you
+386 1 boostyourrun
+388 2 pool
+389 1 may 2017
+392 1 sunshine
+394 1 spring break
+395 2 jesus jams
+401 1 techno
+407 1 rnb
+408 1 instrumentals
+412 2 january
+414 1 party music
+421 1 awesome
+428 1 boat
+434 1 2013
+436 1 autumn
+440 1 summer 2013
+444 1 yup
+445 1 vibez
+447 1 college
+457 1 slow jamz
+463 1 new songs
+466 1 summertime
+470 1 gaming
+471 1 rainy day
+478 1 soundtracks
+478 1 yo
+482 1 life
+489 1 camp
+493 1 the best
+494 1 old songs
+506 2 sunday morning
+507 2 kids
+508 3 december
+519 1 bangerz
+529 1 country jams
+532 1 summer jams
+536 1 my favorites
+539 2 guilty pleasures
+540 1 pre game
+558 1 latin
+566 1 favorite
+566 1 relaxing
+576 2 dinner
+580 1 lol
+581 1 praise
+582 1 current
+586 2 girl power
+597 2 winter
+608 2 march
+624 2 wedding songs
+635 2 may
+643 1 june
+644 1 party mix
+652 2 corridos
+657 1 car ride
+660 2 groovy
+665 2 april
+669 1 grad party
+672 3 summer 2014
+677 1 christmas music
+687 2 homework
+692 1 childhood
+695 3 summer '17
+699 2 morning
+702 1 drake
+712 1 car rides
+715 4 now
+730 2 august
+730 2 jammin
+732 2 fall 2016
+732 2 spring 2017
+734 1 my jams
+737 3 old country
+750 1 fall 2017
+752 2 eminem
+754 1 soft
+795 1 new country
+799 1 spring
+824 1 jesus
+827 1 me
+828 1 everything
+834 2 october
+834 2 yoga
+835 1 party playlist
+841 4 upbeat
+854 2 best
+874 1 sad songs
+875 3 dope
+888 2 tunes
+891 2 🔥🔥🔥
+927 1 covers
+953 1 instrumental
+964 1 tb
+966 1 banda
+980 2 chill out
+984 1 mine
+993 1 house
+994 1 nostalgia
+999 2 soul
+1042 1 good
+1078 1 good songs
+1080 1 good music
+1091 1 car jams
+1094 1 reggaeton
+1104 4 bangers
+1118 1 litty
+1121 1 ❤️
+1128 2 chill vibes
+1133 1 jam
+1155 3 alt
+1158 1 slow
+1167 1 old
+1171 2 good stuff
+1200 3 fire
+1203 1 stuff
+1236 1 gospel
+1237 1 love songs
+1266 3 summer 17
+1290 2 pump up
+1316 2 turn up
+1340 1 calm
+1348 2 90's
+1361 2 fun
+1466 1 halloween
+1466 3 summer 2016
+1487 3 idk
+1514 1 trap
+1620 6 chillin
+1626 2 drive
+1633 4 work out
+1635 2 tbt
+1662 1 mood
+1683 3 <3
+1709 3 mellow
+1786 2 roadtrip
+1826 1 good vibes
+1826 2 my music
+1860 2 mix
+1896 1 driving
+1921 5 pregame
+1934 1 r&b
+1980 2 sad
+1996 1 oldies but goodies
+2030 2 summer 2017
+2120 2 feel good
+2134 7 happy
+2167 3 spanish
+2237 1 reggae
+2238 1 christian
+2249 1 alternative
+2280 3 shower
+2467 5 love
+2478 1 hip hop
+2585 3 wedding
+2608 2 random
+2659 2 work
+2720 2 old school
+2767 1 hype
+2841 3 car
+2879 3 pop
+3022 3 road trip
+3139 3 dance
+3144 3 gym
+3207 3 classics
+3260 5 classic rock
+3322 3 edm
+3465 4 running
+3500 3 vibes
+3513 5 sleep
+3886 7 music
+4030 3 throwbacks
+4124 5 lit
+4186 11 disney
+4612 5 new
+4677 5 feels
+4907 5 summer
+5052 6 worship
+5063 6 jams
+5883 5 throwback
+6157 7 party
+6848 3 rock
+8015 9 christmas
+8146 8 oldies
+8481 13 workout
+8493 13 rap
